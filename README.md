@@ -1,16 +1,31 @@
-## Hi there 👋
+# SHRP
 
-<!--
-**shrp777/shrp777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__Alexandre Leroux__  
+_Enseignant / Formateur_  
+_Développeur logiciel web & mobile_
 
-Here are some ideas to get you started:
+Nancy (Grand Est, France)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<https://shrp.dev>
+
+## Thématiques d'enseignement
+
+- Programmation Fonctionnelle
+- Développement Web
+  - Back End
+    - JavaScript (Express.js / Node.js)
+    - TypeScript (Hono / Bun)
+    - Python (Flask / FastAPI)
+    - PHP (Slim Framework)
+  - Front End
+    - React
+    - Vue
+- Développement Mobile
+  - Flutter
+- Architecture Logicielle
+  - Architecture Hexagonale
+  - MVC
+  - Micro Services / SOA
+  - Event-Driven Architecture (EDA)
+
+!["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
