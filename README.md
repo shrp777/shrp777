@@ -24,6 +24,7 @@ Nancy (Grand Est, France)
 - 📱 Développement Mobile
   - Flutter
 - 🏛️ Architecture Logicielle
+  - Domain-Driven Design (DDD)
   - Architecture Hexagonale
   - MVC
   - Micro Services / SOA
