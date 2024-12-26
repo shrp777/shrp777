@@ -10,8 +10,9 @@ Nancy (Grand Est, France)
 
 ## Thématiques d'enseignement
 
-- Programmation Fonctionnelle
-- Développement Web
+- 🥷 Programmation Fonctionnelle
+- 📦 Programmation Orientée Objet (SOLID, Design Patterns, GRASP...)
+- 🖥️ Développement Web
   - Back End
     - JavaScript (Express.js / Node.js)
     - TypeScript (Hono / Bun)
@@ -20,9 +21,9 @@ Nancy (Grand Est, France)
   - Front End
     - React
     - Vue
-- Développement Mobile
+- 📱 Développement Mobile
   - Flutter
-- Architecture Logicielle
+- 🏛️ Architecture Logicielle
   - Architecture Hexagonale
   - MVC
   - Micro Services / SOA
