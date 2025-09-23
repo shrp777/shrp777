@@ -11,7 +11,7 @@ Nancy (Grand Est, France)
 ## Thématiques d'enseignement
 
 - 🥷 Programmation Fonctionnelle
-- 📦 Programmation Orientée Objet (SOLID, Design Patterns, GRASP...)
+- 📦 Programmation Orientée Objet (SOLID, Design Patterns GoF, GRASP...)
 - 🖥️ Développement Web
   - Back End
     - JavaScript (Express.js / Node.js)
@@ -21,7 +21,7 @@ Nancy (Grand Est, France)
   - Front End
     - React
     - Vue
-- 📱 Développement Mobile
+- 📱 Développement Mobile Cross-Platforms
   - Flutter
 - 🏛️ Architecture Logicielle
   - Domain-Driven Design (DDD)
@@ -29,5 +29,6 @@ Nancy (Grand Est, France)
   - MVC
   - Micro Services / SOA
   - Event-Driven Architecture (EDA)
+  - RabbitMQ
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
