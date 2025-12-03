@@ -14,13 +14,12 @@ Nancy (Grand Est, France)
 - 📦 Programmation Orientée Objet (SOLID, Design Patterns GoF, GRASP...)
 - 🖥️ Développement Web
   - Back End
-    - JavaScript (Express.js / Node.js)
+    - JavaScript (Node.js)
     - TypeScript (Hono / Bun)
-    - Python (Flask / FastAPI)
+    - Python (FastAPI)
     - PHP (Slim Framework)
   - Front End
     - React
-    - Vue
 - 📱 Développement Mobile Cross-Platforms
   - Flutter
 - 🏛️ Architecture Logicielle
@@ -29,6 +28,5 @@ Nancy (Grand Est, France)
   - MVC
   - Micro Services / SOA
   - Event-Driven Architecture (EDA)
-  - RabbitMQ
 
 !["Logotype Shrp"](https://sherpa.one/images/sherpa-logotype.png)
