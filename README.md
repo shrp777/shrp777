@@ -20,7 +20,7 @@ Nancy (Grand Est, France)
     - PHP (Slim Framework)
   - Front End
     - React
-- 📱 Développement Mobile Cross-Platforms
+- 📱 Développement Mobile Cross-Platform
   - Flutter
 - 🏛️ Architecture Logicielle
   - Domain-Driven Design (DDD)
